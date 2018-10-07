@@ -35,7 +35,7 @@ In sdk folder of android, click on SDK Manager to download required api level of
 
 * Go to Developer Options via Settings options and check USB Debugging option and Connect Mobile phone.
 
-* Traverse to root level of the project and run the command: mvn clean compile verify
+* Traverse to root level of the project and run the command: **mvn clean compile verify**
 
 Make sure you have appium and related dependencies installed on your system.
 
