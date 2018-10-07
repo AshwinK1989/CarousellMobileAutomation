@@ -3,15 +3,15 @@
 
 ## List of softwares required to run:
 
-*Java,
+* Java,
 
-*node.js,
+* node.js,
 
-*Android Studio,
+* Android Studio,
 
-*appium,
+* appium,
 
-*Eclipse,
+* Eclipse,
 
 ### Path Settings
 
@@ -23,19 +23,19 @@ Set path to platforms folder and platform-tools folder in environment variable,
 
 In sdk folder of android, click on SDK Manager to download required api level of android.
 
-##Steps to run the test
+## Steps to run the test
 
-*Clone the project on your machine using command: git clone git@github.com:AshwinK1989/CarousellMobileAutomation.git
+* Clone the project on your machine using command: git clone git@github.com:AshwinK1989/CarousellMobileAutomation.git
 
-*Open the project in Eclipse IDE.
+* Open the project in Eclipse IDE.
 
-*Open TestNG.xml file present under resources folder.
+* Open TestNG.xml file present under resources folder.
 
-*In TestNG.xml file, change the deviceName to the name of your device and platform version to the version of your android.
+* In TestNG.xml file, change the deviceName to the name of your device and platform version to the version of your android.
 
-*Go to Developer Options via Settings options and check USB Debugging option and Connect Mobile phone.
+* Go to Developer Options via Settings options and check USB Debugging option and Connect Mobile phone.
 
-*Traverse to root level of the project and run the command: mvn clean compile verify
+* Traverse to root level of the project and run the command: mvn clean compile verify
 
 Make sure you have appium and related dependencies installed on your system.
 
